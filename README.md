@@ -2,16 +2,16 @@
 
 I'm Corey, a Data Science student currently in Newcastle, Australia.
 
-I work mostly with Python and R for data transformation and statistical modelling. I enjoy building clean, reproducible workflows for academic and analytics projects.
+I work mostly with Python and R for exploratory analysis, data transformation and statistical modelling. I enjoy building clean, reproducible workflows for academic and analytics projects.
 
 Planning to include some of my previous University work, as well as any current/future projects.
 
 ## Tools and Tech 🧑‍💻
-- Python, pandas, scikit-learn
-- R, tidyverse, ggplot2
-- SQL
-- Power BI
-- Excel, Word
+- **Python** pandas, scikit-learn
+- **R** tidyverse, ggplot2
+- **SQL**
+- **Power BI**
+- **Excel & Word**
 
 ## About Me 🔥
 - Final year Bachelor of Data Science Student
