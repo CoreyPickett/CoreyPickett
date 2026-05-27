@@ -12,6 +12,7 @@ Planning to include some of my previous University work, as well as any current/
 - **SQL**
 - **Power BI**
 - **Excel & Word**
+- **LaTeX**
 
 ## About Me 🔥
 - Final year Bachelor of Data Science Student
