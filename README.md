@@ -7,8 +7,8 @@ I work mostly with Python and R for exploratory analysis, data transformation an
 Planning to include some of my previous University work, as well as any current/future projects.
 
 ## Tools and Tech 🧑‍💻
-- **Python** pandas, scikit-learn
-- **R** tidyverse, ggplot2
+- **Python**
+- **R** 
 - **SQL**
 - **Power BI**
 - **Excel & Word**
